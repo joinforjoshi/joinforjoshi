@@ -85,7 +85,7 @@ I'm a night 🦉
 <h1 align="center">Hi there 👋, I'm Hemant Kumar Joshi 😎🤠</h1>
 <h3 align="center">A passionate developer & enthusiast from India.🇮🇳</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iam-joshi" alt="hemantjoshi" /></a> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joinforjoshi" alt="HemantJoshi" /></a> </p> 
  
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/96458739/193415097-51f6116f-8f8e-43a8-ab8a-ad40019eda8b.gif">
@@ -133,8 +133,8 @@ I'm a night 🦉
 
 <div>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-joshi&show_icons=true&locale=en&layout=compact" width="45%" alt="Hemant Kumar Joshi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iam-joshi&show_icons=true&locale=en" width="45%" alt="Hemant Kumar Joshi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joinforjoshi&show_icons=true&locale=en&layout=compact" width="45%" alt="Hemant Kumar Joshi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joinforjoshi&show_icons=true&locale=en" width="45%" alt="Hemant Kumar Joshi" /></p>
 
 </div>
 
